@@ -1,5 +1,5 @@
 # fcc-tribute
-A page I made as one of the tprojects in order to earn my freeCodeCamp certification
+A page I made as one of the projects in order to earn my freeCodeCamp certification
 
 <!DOCTYPE html>
 <html lang="in">
